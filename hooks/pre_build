@@ -1,3 +1,2 @@
 #! /bin/bash
-#docker version
-docker run --rm -v $(pwd):/output build-archlinux
+docker run --rm -v $(pwd):/output desiato/build-archlinux
