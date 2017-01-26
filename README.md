@@ -1,1 +1,1 @@
-# docker-archlinux-test
+# docker-archlinux-bootstrap
